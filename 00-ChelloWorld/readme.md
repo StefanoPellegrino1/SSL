@@ -1,0 +1,1 @@
+El compilador que elegi fue el mingww  64 
